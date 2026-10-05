@@ -21,3 +21,4 @@ Coursework for **Engineering Management**, Section J (AIUB), Fall 2026-27.
 | # | Item | Folder |
 |---|------|--------|
 | 1 | Intro to Engineering Management & Operations: [notes](notes/01-intro-to-em-and-operations.md) · [slides](slides/01%20Intro%20to%20EM+Ops.pdf) | `notes/`, `slides/` |
+| 2 | Productivity & Competitiveness: [notes](notes/02-productivity-and-competitiveness.md) · [slides](slides/02%20Productivity%20&%20Competitiveness.pdf) | `notes/`, `slides/` |
