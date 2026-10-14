@@ -22,4 +22,4 @@ Coursework for **Engineering Management**, Section J (AIUB), Fall 2026-27.
 |---|------|--------|
 | 1 | Intro to Engineering Management & Operations: [notes](notes/01-intro-to-em-and-operations.md) · [slides](slides/01%20Intro%20to%20EM+Ops.pdf) | `notes/`, `slides/` |
 | 2 | Productivity & Competitiveness: [notes](notes/02-productivity-and-competitiveness.md) · [slides](slides/02%20Productivity%20&%20Competitiveness.pdf) | `notes/`, `slides/` |
-| Q1 | **Quiz 1 (MCQ), Wed 14 Oct:** Productivity & Forecasting. [prep sheet](quizzes/quiz-01-productivity-forecasting.md) · [quick 1-page version](quizzes/quiz-01-quick-prep.md) | `quizzes/` |
+| Q1 | **Quiz 1 (MCQ), Wed 14 Oct:** Productivity & Forecasting. [prep sheet](quizzes/quiz-01-productivity-forecasting.md) · [quick 1-page version](quizzes/quiz-01-quick-prep.md) · [20 analytical MCQs](quizzes/quiz-01-analytical-mcqs.md) | `quizzes/` |
