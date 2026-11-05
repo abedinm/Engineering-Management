@@ -1,6 +1,6 @@
 # Midterm MCQ Practice: Engineering Management
 
-**50 MCQs + 12 modified true/false**, covering all five midterm topics. About half are calculations, because Dr. Khan said the exam is about 80% problem solving. Each wrong option is a common mistake.
+**76 MCQs + 12 modified true/false**, covering every topic in the four lecture decks, Worksheet 2 and the revision notes. About half are calculations, because Dr. Khan said the exam is about 80% problem solving. Each wrong option is a common mistake.
 
 Time yourself: about **1 minute per MCQ**. Answers with working start after Part B.
 
@@ -183,6 +183,99 @@ Write **T** or **F**. If it's false, **correct the word in bold** so the stateme
 11. Value added = value of outputs − cost of inputs.
 12. A **sunk cost** should be included in a make-or-buy comparison.
 
+## Part C: Topics not covered in Part A
+
+### Lecture 1
+
+**51.** "The ability to respond to changes in design, volume or product mix" is which of the 10 ways firms compete using operations?
+(a) Quick response  (b) Flexibility  (c) Quality  (d) Location
+
+**52.** Building a bridge is which type of operation?
+(a) Manufacturing  (b) Service  (c) Project-based  (d) Hybrid
+
+**53.** On the competitiveness slide, Walton is the example of which competitive factor?
+(a) Innovation  (b) Dependability  (c) Cost  (d) Delivery speed
+
+**54.** In the Tesla Gigafactory case, the engineering managers reported to the:
+(a) CEO  (b) CFO  (c) CTO  (d) Board
+
+**55.** In the Boeing 737 MAX root cause analysis, "inadequate pilot training" falls under:
+(a) Methods  (b) Manpower  (c) Machinery  (d) Measurement
+
+### Lecture 3
+
+**56.** The three basic functions of every business organisation are:
+(a) Finance, Operations, Marketing  (b) HR, IT, Sales  (c) Planning, Leading, Controlling  (d) Design, Build, Test
+
+**57.** Which of these is an **input** in the transformation model?
+(a) Treated patients  (b) Information  (c) Canned vegetables  (d) Services
+
+**58.** Which is the correct order of a simple product supply chain?
+(a) Producer → suppliers → distributor → customers
+(b) Suppliers' suppliers → direct suppliers → producer → distributor → final customers
+(c) Distributor → producer → suppliers → customers
+(d) Direct suppliers → distributor → producer → final customers
+
+**59.** The four things the best managers and companies deliver for competitive advantage are:
+(a) cost competitiveness, quality, speed, innovation  (b) price, place, product, promotion  (c) planning, organising, leading, controlling  (d) land, labour, capital, information
+
+**60.** Which is **not** listed in the scope of operations management?
+(a) Forecasting  (b) Capacity planning  (c) Managing inventories  (d) Setting the company's share price
+
+### Productivity
+
+**61.** Which is **not** one of the three productivity measurement problems?
+(a) Quality may change  (b) External elements may interfere  (c) Precise units of measure may be lacking  (d) Workers are paid by the hour
+
+**62.** A car rental agency has 60 cars available and rents 45 today. What is its process yield?
+(a) 45%  (b) 60%  (c) 75%  (d) 133%
+
+**63.** Which is the **second** step in improving productivity?
+(a) Get management support  (b) Determine critical (bottleneck) operations  (c) Publicise improvements  (d) Set reasonable goals
+
+**64.** TSMC gained a 54% market share despite Samsung's productivity edge. This shows that:
+(a) productivity doesn't matter  (b) innovation is another path to competitiveness  (c) TSMC had lower costs  (d) Samsung had better quality
+
+### Forecasting
+
+**65.** A demand surge that happens **every semester** is:
+(a) a trend  (b) seasonality  (c) an isolated surge  (d) a level series
+
+**66.** Which is **not** a feature of a useful forecast in Dr. Khan's notes?
+(a) Timely  (b) Reasonably accurate  (c) Easy to update  (d) Uses the most complex method available
+
+**67.** MAPE can't be calculated for a period when:
+(a) the error is negative  (b) the actual demand is zero  (c) the forecast is zero  (d) α is above 0.5
+
+**68.** A student uses weights of 0.5, 0.3 and 0.3 in a weighted moving average. What's wrong?
+(a) Nothing  (b) The weights don't add up to 1  (c) Weights must be equal  (d) The largest weight must be on the oldest period
+
+### Capacity Planning
+
+**69.** Management won't allow a third shift. Which determinant of effective capacity is this?
+(a) Human  (b) Policy  (c) Facilities  (d) External
+
+**70.** One missing component stops a refrigerator assembly line. Which determinant is this?
+(a) Operational  (b) Product  (c) Facilities  (d) Policy
+
+**71.** On the make-buy matrix, a part with **high strategic value** and **low cost** should be:
+(a) made  (b) bought  (c) weighed on cost/benefit  (d) deferred
+
+**72.** A plant speeds up a machine that is **not** the bottleneck. What happens?
+(a) Output rises a lot  (b) More idle time or inventory, and throughput stays the same  (c) The bottleneck disappears  (d) Utilisation of the bottleneck falls
+
+**73.** Why can having excess capacity make a firm more competitive?
+(a) It lowers fixed cost  (b) It can be a barrier to entry for other firms  (c) It raises utilisation  (d) It removes the need for forecasting
+
+**74.** The **first** step in the capacity planning process is to:
+(a) implement the alternative  (b) estimate future capacity requirements  (c) do a financial analysis  (d) monitor results
+
+**75.** Option A has FC $50,000 and v $10. Option B has FC $80,000 and v $7. At 8,000 units, which is cheaper?
+(a) A, $130,000 vs $136,000  (b) B, $136,000 vs $130,000  (c) They're equal  (d) B, because its variable cost is lower
+
+**76.** The **indifference point** is the quantity at which:
+(a) profit is zero  (b) a decision maker would be indifferent between two alternatives  (c) capacity equals demand  (d) utilisation is 100%
+
 <div style="page-break-before: always"></div>
 
 ## Answers
@@ -259,4 +352,35 @@ Write **T** or **F**. If it's false, **correct the word in bold** so the stateme
 | 11 | **T** | — |
 | 12 | **F** | A sunk cost is **irrelevant**. Use only the costs that change with the decision |
 
-**Score guide:** 45+ out of 50 means you're ready. 35–44 means check the reasons for the ones you missed. Below 35, go back to the full handwritten prep.
+### Part C
+
+| Q | Ans | Reason |
+|---|---|---|
+| 51 | **b** | Flexibility = responding to changes in design, volume or mix |
+| 52 | **c** | Project-based: unique, time-bound outputs such as construction |
+| 53 | **b** | Apple is innovation, Walton dependability, H&amp;M cost, Intel quality, Dell delivery speed |
+| 54 | **c** | Engineering managers report to the CTO. Business managers report to the CEO |
+| 55 | **b** | Manpower = people and training. The software validation gap was Methods |
+| 56 | **a** | Finance, operations and marketing |
+| 57 | **b** | Inputs are land, labour, capital and information. (a) and (c) are outputs |
+| 58 | **b** | Suppliers' suppliers → direct suppliers → producer → distributor → final customers |
+| 59 | **a** | Cost competitiveness, quality, speed and innovation. (b) is the marketing mix, (c) the management functions |
+| 60 | **d** | The OM scope is forecasting, capacity, scheduling, inventory, quality, motivating employees, location and SCM |
+| 61 | **d** | The three are quality changes, external elements, and lack of precise units |
+| 62 | **c** | 45 ÷ 60 = 75% |
+| 63 | **b** | Measures → bottleneck → methods → goals → management support → measure and publicise |
+| 64 | **b** | Innovation-driven competitiveness can beat higher productivity |
+| 65 | **b** | Seasonality repeats at a known interval |
+| 66 | **d** | Timely, reasonably accurate, reliable, meaningful units, easy to update |
+| 67 | **b** | Dividing by an actual of zero is undefined |
+| 68 | **b** | 0.5 + 0.3 + 0.3 = 1.1. Weights must add up to 1 |
+| 69 | **b** | Overtime and shift rules are policy |
+| 70 | **a** | An inventory shortage of one component is operational |
+| 71 | **c** | High value + low cost = weigh cost/benefit. High value + high cost = make |
+| 72 | **b** | The bottleneck still limits output, so you only create idle time or inventory |
+| 73 | **b** | Spare capacity, or adding it quickly, is a barrier to entry and supports delivery speed |
+| 74 | **b** | Estimate future requirements first, monitor results last |
+| 75 | **a** | A = 50,000 + 80,000 = 130,000. B = 80,000 + 56,000 = 136,000. Below the 10,000 indifference point, the lower FC wins |
+| 76 | **b** | Two alternatives give equal profit or cost. Profit = 0 is the break-even point |
+
+**Score guide:** 68+ out of 76 means you're ready. 53–67 means check the reasons for the ones you missed. Below 53, go back to the full handwritten prep.
