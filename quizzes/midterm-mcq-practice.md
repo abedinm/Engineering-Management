@@ -1,6 +1,6 @@
 # Midterm MCQ Practice: Engineering Management
 
-**76 MCQs + 12 modified true/false**, covering every topic in the four lecture decks, Worksheet 2 and the revision notes. About half are calculations, because Dr. Khan said the exam is about 80% problem solving. Each wrong option is a common mistake.
+**111 MCQs + 20 modified true/false**, covering every topic in the five lecture decks (including Forecasting & Accuracy), Worksheets 1–3 and the revision notes (EM Mid Notes 2627). About half are calculations, because Dr. Khan said the exam is about 80% problem solving. Each wrong option is a common mistake.
 
 Time yourself: about **1 minute per MCQ**. Answers with working start after Part B.
 
@@ -89,7 +89,7 @@ Time yourself: about **1 minute per MCQ**. Answers with working start after Part
 
 ### Forecasting
 
-**26.** April demand was 340 and March was 320. What is the naive forecast for May?
+**26.** Demand moves around a stable average. March was 320 and April was 340. What is the naive forecast for May?
 (a) 320  (b) 330  (c) 340  (d) 360
 
 **27.** What is the 3-period moving average of 40, 46 and 52?
@@ -182,6 +182,14 @@ Write **T** or **F**. If it's false, **correct the word in bold** so the stateme
 10. Top managers mainly need **technical** skills.
 11. Value added = value of outputs − cost of inputs.
 12. A **sunk cost** should be included in a make-or-buy comparison.
+13. Forecast accuracy **increases** as the time horizon gets longer.
+14. Forecasts for groups of items tend to be more accurate than forecasts for individual items.
+15. In a weighted moving average, the heaviest weight goes on the **oldest** value.
+16. Irregular variations should be identified and removed from the data whenever possible.
+17. MAPE = Σ(**e²** ÷ A × 100) ÷ n.
+18. A company-wide labour productivity measure is a **total** productivity measure.
+19. Cycles are wavelike variations lasting **less** than one year.
+20. To combine labour-hours, kilograms and kWh in one productivity measure, convert them to a common value basis such as $.
 
 ## Part C: Topics not covered in Part A
 
@@ -276,6 +284,121 @@ Write **T** or **F**. If it's false, **correct the word in bold** so the stateme
 **76.** The **indifference point** is the quantity at which:
 (a) profit is zero  (b) a decision maker would be indifferent between two alternatives  (c) capacity equals demand  (d) utilisation is 100%
 
+## Part D: Forecasting lecture, Worksheets 1 and 3, revision notes
+
+### Forecasting & Accuracy lecture
+
+**77.** According to the forecasting lecture, the primary goal of operations management is to:
+(a) minimise cost  (b) match supply to demand  (c) maximise utilisation  (d) eliminate forecast error
+
+**78.** Which pair are **both** among the 7 elements of a good forecast?
+(a) In writing and cost-effective  (b) Sophisticated and long-range  (c) Unbiased and seasonal  (d) Qualitative and automated
+
+**79.** Forecasts for a **group** of items are usually more accurate than forecasts for single items because:
+(a) groups use regression  (b) errors among the items tend to cancel out  (c) groups have no randomness  (d) groups are forecast more often
+
+**80.** As the forecast horizon gets longer, forecast accuracy:
+(a) increases  (b) decreases  (c) stays the same  (d) becomes perfect
+
+**81.** Planning next quarter's inventory and workforce levels is:
+(a) planning the system  (b) planning the use of the system  (c) associative forecasting  (d) a cycle
+
+**82.** Wavelike variations lasting **more than one year** are:
+(a) seasonality  (b) cycles  (c) irregular variations  (d) random variations
+
+**83.** A month-long strike cut sales sharply. In the time series, this should be:
+(a) kept, because it's a trend  (b) identified and removed from the data  (c) treated as seasonality  (d) used as the next naive forecast
+
+**84.** Forecasting paint demand from the price per gallon and advertising spend is:
+(a) judgmental  (b) time-series  (c) associative  (d) naive
+
+**85.** Consumer surveys, the sales staff and panels of experts are inputs to which kind of forecast?
+(a) Judgmental  (b) Time-series  (c) Associative  (d) Exponential smoothing
+
+**86.** Sales were 50, 53, 55 and 58. Using the faculty's method, what is the naive forecast for period 5?
+(a) 58  (b) 61  (c) 60.5  (d) 54
+
+**87.** Sales were 70, 74 and 78, a consistent trend. What is the naive forecast for period 4?
+(a) 78  (b) 82  (c) 74  (d) 80
+
+**88.** The more periods in a moving average:
+(a) the faster it reacts  (b) the more it lags changes in the data  (c) the less it smooths  (d) the more weight it puts on recent values
+
+**89.** Demand was 42, 40, 43, 40 and 41, so the 3-period MA gave F₆ = 41.33. Actual demand in period 6 is 38. What is F₇?
+(a) 39.67  (b) 41.33  (c) 40.33  (d) 40.67
+
+**90.** Demand, oldest to newest, was 43, 40, 41 and 39. The weights are .40, .30, .20 and .10, with the heaviest on the most recent period. What is the forecast?
+(a) 40.2  (b) 41.3  (c) 40.75  (d) 39.6
+
+**91.** Complaints were 60, 65 and 55. Using exponential smoothing with α = 0.40 and F₂ = A₁, what is F₄?
+(a) 59.2  (b) 57.8  (c) 62  (d) 58.2
+
+**92.** In the lecture's table comparing α = .10 and α = .40, the α = .40 forecasts:
+(a) follow the actual data more closely  (b) are smoother  (c) never change  (d) equal the naive forecast
+
+**93.** For 9 periods, Σt = 45, Σy = 488, Σt² = 285 and Σty = 2,545. What is the trend forecast for t = 10?
+(a) 62.97  (b) 64.72  (c) 54.22  (d) 17.50
+
+**94.** In the trend equation F<sub>t</sub> = a + bt, **a** is:
+(a) the slope  (b) the value of F<sub>t</sub> at t = 0  (c) the average demand  (d) the forecast error
+
+**95.** Actual demand was 65, 55, 58 and 64. The forecasts were 60, 62, 59.2 and 58.72. What is the MAPE?
+(a) 7.68%  (b) 43.48%  (c) 4.62%  (d) 34.44%
+
+**96.** Technique 1 has MAD 4.67, MSE 49.6 and MAPE 0.97%. Technique 2 has MAD 5.67, MSE 52.8 and MAPE 1.17%. Which is more accurate?
+(a) Technique 1  (b) Technique 2  (c) Technique 1 on MAD only  (d) You can't tell without the bias
+
+**97.** Over 8 periods, Σ|e| = 22 and Σe² = 76. What is the MSE (÷ n − 1)?
+(a) 9.5  (b) 10.86  (c) 2.75  (d) 3.30
+
+**98.** Actuals exist for periods 1–5. Exponential smoothing gives forecasts for periods 2–6. How many periods (n) go into the MAD?
+(a) 5  (b) 6  (c) 4  (d) 3
+
+**99.** The **last** step in the forecasting process is to:
+(a) select a method  (b) make the forecast  (c) monitor the forecast errors  (d) establish the time horizon
+
+### Worksheet 1: Productivity
+
+**100.** A factory makes 1,000 tires a day using 400 labour-hours at $12.50, $20,000 of material, $5,000 of energy and $10,000 of capital. What is the MFP?
+(a) 2.5  (b) 0.025  (c) 0.0286  (d) 0.04 tires per $
+
+**101.** Using Q100's data, the energy bill falls by $1,000 a day with no other change. MFP changes by:
+(a) +2.5%  (b) +2.56%  (c) +20%  (d) −2.56%
+
+**102.** 8 workers each work 45 hours. They make 52 flawed garments sold at $90 and 80 good ones sold at $198. What is the labour productivity in $ per labour-hour?
+(a) $57.00  (b) $72.60  (c) $44.00  (d) $5.70
+
+**103.** A bakery makes 1,500 loaves a month at 2.344 loaves per labour-hour. Each worker works 160 h a month. Demand rises 25%, and productivity stays the same. How many workers must be **added**?
+(a) 0  (b) 1  (c) 4  (d) 5
+
+**104.** Unit A earns Tk 15,000,000 from Tk 63,000 of input (238.10 Tk/Tk). Unit B earns Tk 14,000,000 from Tk 99,000 (141.41 Tk/Tk). What is the total productivity of the whole company?
+(a) 189.76  (b) 179.01  (c) 379.51  (d) 238.10 Tk/Tk
+
+### Worksheet 3: Capacity Planning
+
+**105.** Five products need 12,380 machine-hours a year. One machine gives 3,500 hours a year. How many machines are needed?
+(a) 3  (b) 3.54  (c) 4  (d) 5
+
+**106.** FC = $25,000 a month and v = $0.37 per pen. Demand is 30,000 pens. What price gives a $15,000 monthly profit?
+(a) $1.70  (b) $1.71  (c) $1.33  (d) $0.87
+
+**107.** A pottery plant has FC $9,200 a month, v $0.70 and R $0.90. What is the profit at 61,000 units a month?
+(a) $12,200  (b) $3,000  (c) −$3,000  (d) $54,900
+
+**108.** FC = Tk 42,000, v = Tk 15 and R = Tk 22. What is the profit function?
+(a) P = 7q − 42,000  (b) P = 22q − 42,000  (c) P = 37q − 42,000  (d) P = 42,000 − 7q
+
+### Revision notes (EM Mid Notes 2627)
+
+**109.** Which is **not** listed in the revision notes as a way operations contribute to competitiveness?
+(a) Delivery reliability  (b) Flexibility  (c) Cost  (d) Advertising
+
+**110.** A frontline supervisor diagnoses calibration drift on a machine and explains how to correct it. This uses which skill?
+(a) Technical  (b) Human  (c) Conceptual  (d) Political
+
+**111.** In the revision notes, **total** productivity is measured as:
+(a) units per labour-hour  (b) $ output per $ of labour and materials  (c) $ output per $ of total input cost  (d) $ output per $ of energy
+
 <div style="page-break-before: always"></div>
 
 ## Answers
@@ -309,7 +432,7 @@ Write **T** or **F**. If it's false, **correct the word in bold** so the stateme
 | 23 | **c** | The three are labour, capital and management |
 | 24 | **b** | It rises at first (fewer people, same work), then burnout, fear and departures pull it down |
 | 25 | **b** | You can't add hours to kilograms, so use a common $ basis |
-| 26 | **c** | Naive = the latest actual |
+| 26 | **c** | Stable series, so naive = the latest actual. (d) adds the last change, which is only for a consistent trend |
 | 27 | **a** | 138 ÷ 3 = 46 |
 | 28 | **c** | Biggest weight on the newest: 0.5(130) + 0.3(110) + 0.2(100) = 118. (a) reversed the weights |
 | 29 | **a** | 200 + 0.4(20) = 208. (b) used α = 0.6 |
@@ -351,6 +474,14 @@ Write **T** or **F**. If it's false, **correct the word in bold** so the stateme
 | 10 | **F** | Top managers mainly need **conceptual** skills. First-line managers need technical skills |
 | 11 | **T** | — |
 | 12 | **F** | A sunk cost is **irrelevant**. Use only the costs that change with the decision |
+| 13 | **F** | Accuracy **decreases** as the horizon gets longer |
+| 14 | **T** | — (errors among items cancel out) |
+| 15 | **F** | The heaviest weight goes on the **most recent** value |
+| 16 | **T** | — |
+| 17 | **F** | MAPE uses **\|e\|** ÷ A, not e² ÷ A |
+| 18 | **F** | It's still a **partial** measure, because only labour is in the denominator |
+| 19 | **F** | Cycles last **more** than one year |
+| 20 | **T** | — |
 
 ### Part C
 
@@ -383,4 +514,44 @@ Write **T** or **F**. If it's false, **correct the word in bold** so the stateme
 | 75 | **a** | A = 50,000 + 80,000 = 130,000. B = 80,000 + 56,000 = 136,000. Below the 10,000 indifference point, the lower FC wins |
 | 76 | **b** | Two alternatives give equal profit or cost. Profit = 0 is the break-even point |
 
-**Score guide:** 68+ out of 76 means you're ready. 53–67 means check the reasons for the ones you missed. Below 53, go back to the full handwritten prep.
+### Part D
+
+| Q | Ans | Working / reason |
+|---|---|---|
+| 77 | **b** | Match supply to demand. A demand forecast tells you how much capacity or supply you need |
+| 78 | **a** | The 7: timely, accurate, reliable, meaningful units, in writing, simple to understand and use, cost-effective |
+| 79 | **b** | Errors among items in a group tend to cancel out |
+| 80 | **b** | Longer horizons face more uncertainty, so accuracy falls |
+| 81 | **b** | Short and intermediate plans (inventory, workforce, purchasing, scheduling) are planning the use of the system |
+| 82 | **b** | Cycles last more than a year. Seasonality is short-term and regular |
+| 83 | **b** | Irregular variations distort the picture, so identify and remove them |
+| 84 | **c** | Associative models use explanatory variables such as price and advertising |
+| 85 | **a** | Judgmental forecasts use subjective inputs from surveys, sales staff, managers and experts |
+| 86 | **a** | The changes (+3, +2, +3) aren't consistent, so use the most recent value: 58. (b) added the last change |
+| 87 | **b** | The change is a consistent +4, so 78 + 4 = 82 |
+| 88 | **b** | More periods means more smoothing but more lag |
+| 89 | **a** | (40 + 41 + 38) ÷ 3 = 39.67. Drop the oldest (43), add the newest (38). (d) averaged all six values |
+| 90 | **a** | .10(43) + .20(40) + .30(41) + .40(39) = 4.3 + 8 + 12.3 + 15.6 = 40.2. (b) reversed the weights |
+| 91 | **a** | F₂ = 60. F₃ = 60 + .4(65 − 60) = 62. F₄ = 62 + .4(55 − 62) = 59.2. (b) used 1 − α |
+| 92 | **a** | A bigger α reacts faster. The closer α is to 0, the smoother the forecast |
+| 93 | **a** | b = (22,905 − 21,960) ÷ (2,565 − 2,025) = 1.75. a = (488 − 78.75) ÷ 9 = 45.47. F₁₀ = 45.47 + 17.5 = 62.97. (b) is F₁₁ |
+| 94 | **b** | a is the y-intercept (F at t = 0). b is the slope |
+| 95 | **a** | \|e\|/A × 100 = 7.69, 12.73, 2.07, 8.25. Sum 30.74 ÷ 4 = 7.68%. (b) divided e² by A (the slip on the Practice #3 slide). (c) is the MAD, (d) the MSE |
+| 96 | **a** | Technique 1 is lower on all three measures |
+| 97 | **b** | 76 ÷ (8 − 1) = 10.86. (a) divided by n. (c) is the MAD |
+| 98 | **c** | Only periods 2–5 have both an actual and a forecast, so n = 4 |
+| 99 | **c** | Purpose → horizon → data → method → forecast → monitor the errors |
+| 100 | **b** | 1,000 ÷ (5,000 + 20,000 + 5,000 + 10,000) = 1,000 ÷ 40,000 = 0.025. (c) left out labour |
+| 101 | **b** | 1,000 ÷ 39,000 = 0.02564. (0.02564 − 0.025) ÷ 0.025 = +2.56% |
+| 102 | **a** | (52 × 90 + 80 × 198) ÷ (8 × 45) = 20,520 ÷ 360 = $57.00. (c) left out the seconds, which were still sold |
+| 103 | **b** | Now 1,500 ÷ 2.344 = 640 h = 4 workers. New 1,875 ÷ 2.344 = 800 h = 5 workers. Add 1. (c) is the current crew |
+| 104 | **b** | 29,000,000 ÷ 162,000 = 179.01. (a) averaged the two units |
+| 105 | **c** | 12,380 ÷ 3,500 = 3.54, round up to 4 |
+| 106 | **b** | R = 0.37 + (15,000 + 25,000) ÷ 30,000 = 1.7033 → round up to $1.71. At $1.70 the profit is only $14,900 |
+| 107 | **b** | 61,000(0.90 − 0.70) − 9,200 = 12,200 − 9,200 = $3,000. (a) forgot FC, (d) is revenue |
+| 108 | **a** | P = 22q − (42,000 + 15q) = 7q − 42,000 |
+| 109 | **d** | Cost, quality, delivery speed, delivery reliability and flexibility |
+| 110 | **a** | Technical skill = specialised know-how. Coaching staff is human skill; coordinating functions is conceptual |
+| 111 | **c** | Total = all inputs within the stated scope. (b) is a multifactor measure |
+
+**Score guide:** 100+ out of 111 means you're ready. 78–99 means check the reasons for the ones you missed. Below 78, go back to the full handwritten prep.

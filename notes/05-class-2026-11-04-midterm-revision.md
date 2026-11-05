@@ -2,7 +2,11 @@
 
 Made from the recording of the online class (Microsoft Teams, Dr. Arif Mostafa Khan). He went through his **"EM Mid Notes 2627: Engineering Management Midterm Revision Notes, Fall 26/27"** PDF and answered questions about the exam. He said the notes are on the **Portal**.
 
-> **What's missing from the recording.** It started at 15:02, after the class had begun. It missed the start of the notes, including most of the "management skills" part, and the multifactor and total rows of the productivity table weren't shown clearly. The first ~1.5 minutes of speech were in Bangla and couldn't be transcribed. Download the full PDF from the Portal to fill these gaps.
+> **What the recording missed (now filled in from the full PDF).** The recording started at 15:02, after the class had begun, so it missed the start of the notes. The full revision notes are now filed at [`EM Mid Notes 2627.pdf`](EM%20Mid%20Notes%202627.pdf). The parts the recording missed:
+>
+> - **Competitiveness:** the ability to win and retain customers relative to alternatives. Operations contribute through cost, quality, delivery speed, delivery reliability and flexibility. The priorities depend on what the customer values.
+> - **Management skills:** *technical* (a frontline supervisor diagnoses calibration drift and explains the corrective procedure), *human* (coaching staff, resolving conflict across functions), *conceptual* (a middle manager coordinating purchasing, production and quality; senior management deciding whether to fund a spare-parts network). All levels use all three skills; the emphasis shifts.
+> - The multifactor and total rows of the productivity table (filled in below).
 
 ## A. What he said about the midterm
 
@@ -33,8 +37,8 @@ Made from the recording of the online class (Microsoft Teams, Dr. Arif Mostafa K
 | Measure | What goes in the denominator | Example unit |
 |---|---|---|
 | **Partial** | One input (labour or energy) | Units per labour-hour; $ output per $ of energy |
-| **Multifactor** | Selected inputs | (row not fully shown in class) |
-| **Total** | All inputs within the stated boundary | (row not fully shown in class) |
+| **Multifactor** | A selected combination of inputs | Dollars of output per dollar of labour and materials |
+| **Total** | All inputs within the stated measurement scope | Dollars of output per dollar of total input cost |
 
 - **Use a common value basis (e.g. $) to combine inputs.** Adding labour hours to kilograms means nothing.
 - **A company-wide labour measure is still partial**, because only labour is in the denominator.
