@@ -30,3 +30,4 @@ Coursework for **Engineering Management**, Section J (AIUB), Fall 2026-27.
 | CS | **Midterm case study: Solaric (10% of grade), due Wed 28 Oct.** [brief](assignments/case-study-midterm-solaric/EM%20Mid-Case%20Study%20Solaric.pdf) | `assignments/` |
 | Q2 | **Quiz 2 (Tue 3 Nov): Capacity Planning.** [prep sheet + 22 MCQs](quizzes/quiz-02-capacity-planning.md) · [PDF](quizzes/Quiz-2-Capacity-Planning-Prep.pdf) | `quizzes/` |
 | MT1 | **Midterm prep, Chapter 1: Productivity & Competitiveness.** [study guide](quizzes/midterm-ch1-productivity.md) · [PDF](quizzes/Midterm-Ch1-Productivity.pdf) | `quizzes/` |
+| MT | **Midterm (Sun 8 Nov, 3–5 PM):** [handwritten-style prep, all 3 topics](quizzes/EM-Midterm-Prep-Handwritten.pdf) | `quizzes/` |
