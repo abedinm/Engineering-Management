@@ -35,4 +35,5 @@ Coursework for **Engineering Management**, Section J (AIUB), Fall 2026-27.
 | MT1 | **Midterm prep, Chapter 1: Productivity & Competitiveness.** [study guide](quizzes/midterm-ch1-productivity.md) · [PDF](quizzes/Midterm-Ch1-Productivity.pdf) | `quizzes/` |
 | MT | **Midterm (Sun 8 Nov, 3–5 PM):** [FULL handwritten prep, all chapters + Worksheets 1–3 + Forecasting lecture, 28 pages](quizzes/EM-Midterm-Prep-Full-Handwritten.pdf) · [short version](quizzes/EM-Midterm-Prep-Handwritten.pdf) | `quizzes/` |
 | LOG | **Midterm progress log:** what's studied, what's left, Sunday plan, answer keys, formula checklist: [progress + plan](quizzes/midterm-progress-and-sunday-plan.md) | `quizzes/` |
+| CHEAT | **One-page formula cheat sheet** (all midterm formulas): [PDF](quizzes/EM-Formula-Cheat-Sheet.pdf) | `quizzes/` |
 | MCQ | **Midterm MCQ practice:** 111 MCQs + 20 modified true/false, every topic: [questions + answers](quizzes/midterm-mcq-practice.md) · [PDF](quizzes/EM-Midterm-MCQ-Practice.pdf) | `quizzes/` |
